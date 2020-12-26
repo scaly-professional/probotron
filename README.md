@@ -1,3 +1,5 @@
+Do not copy and use code
+
 # probotron_pi
 Probotron Reborn on the RasPi
 
